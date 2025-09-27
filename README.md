@@ -44,8 +44,6 @@ cd local-rag-app
 pip install -r requirements.txt
 ```
 
-*(Example `requirements.txt`)*
-
 ```
 streamlit
 ollama
