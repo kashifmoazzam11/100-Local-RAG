@@ -3,5 +3,4 @@ streamlit
 sentence-transformers
 chromadb
 pymupdf
-
 langchain-community
