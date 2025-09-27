@@ -86,17 +86,6 @@ This yields:
 
 ---
 
-## 📂 Project Structure
-
-```
-local-rag-app/
-├─ app.py                # Streamlit front-end
-├─ rag_pipeline.py       # RAG logic (embeddings, retrieval, re-ranking)
-├─ requirements.txt
-└─ README.md
-```
-
----
 
 ## 🛡️ Privacy
 
