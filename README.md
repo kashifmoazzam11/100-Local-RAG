@@ -1,7 +1,3 @@
-Here’s an updated **README.md** for your app with your specific model choices added in.
-
----
-
 # Local RAG App
 
 A **100% local Retrieval-Augmented Generation (RAG)** application built with:
